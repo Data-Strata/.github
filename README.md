@@ -1,15 +1,15 @@
 # .github
 # Data-Strata
-**Analytics • BI • ES/EN Translation • AI Prompts**
+**Analytics • BI • Excel• AI Prompts**
 
-Data-Strata builds **bilingual (ES/EN) data solutions** that combine **SQL data modeling, Power BI dashboards, Excel automation, and translation quality assets**.  
-We design clear, auditable analytics and documentation so stakeholders can act with confidence.
+Data-Strata builds **data solutions** that combine **SQL data modeling, Power BI dashboards, Excel automation, and translation quality assets**.  
+We design clear, auditable analytics and documentation so stakeholders can act with confidence. 
+
+**Bilingual (ES/EN) solutions are available upon request**
 
 ## Featured Projects
-- **SQL Toolkit** → https://github.com/Data-Strata/ds-sql-toolkit  
-- **BI Dashboards (Power BI + Excel)** → https://github.com/Data-Strata/ds-bi-dashboards  
-- **Translation Glossaries (ES-LatAm)** → https://github.com/Data-Strata/ds-translation-glossaries  
-- **AI Prompt Library (Data + Localization)** → https://github.com/Data-Strata/ds-ai-prompt-library
+- **BI Dashboards (Power BI + Excel)** → https://github.com/Data-Strata/
+
 
 ## What we demonstrate
 - **Data Modeling & SQL:** normalized schemas, KPIs, performant queries  
@@ -23,9 +23,7 @@ We design clear, auditable analytics and documentation so stakeholders can act w
 
 ---
 
-## Español (LatAm)
-**Data-Strata** crea soluciones de **datos bilingües (ES/EN)** que integran **modelado SQL, tableros en Power BI, automatización en Excel y activos de traducción**.  
-Priorizamos documentación clara y resultados accionables.
+
 
 **Proyectos destacados:** ver enlaces arriba.  
 **Contacto:**📧 mairilynyera@gmail.com
