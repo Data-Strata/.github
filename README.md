@@ -28,7 +28,7 @@ We focus on solutions that are:
 ![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-009CA6?style=flat-square)
 
 Executive‑ready dashboard with condition deep‑dives, geographic analysis, and value‑based contracting recommendations.  
-🔗 https://github.com/Data-Strata/Hospital-Readmission-Analytics
+🔗 [https://github.com/Data-Strata/Hospital-Readmission-Analytics](https://github.com/Data-Strata/Hospital-Readmissions-Quality-Analytics)
 
 ---
 
