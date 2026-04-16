@@ -38,7 +38,7 @@ Executive‑ready dashboard with condition deep‑dives, geographic analysis, an
 ![Excel](https://img.shields.io/badge/Excel-009CA6?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual identity.  
-🔗 https://github.com/Data-Strata/Inventory-Analytics
+🔗 [https://github.com/Data-Strata/Inventory-Analytics](https://github.com/Data-Strata/Inventory-Vendor-Insights)
 
 ---
 
