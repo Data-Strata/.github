@@ -77,4 +77,3 @@ Highlighted Maven projects:
 
 ## 📬 Contact  
 ![Email](https://img.shields.io/badge/Email-009CA6?style=flat-square&logo=gmail&logoColor=white) **mairilynyera@gmail.com**  
-![Portfolio](https://img.shields.io/badge/Portfolio-2E2E2E?style=flat-square) https://data-strata.github.io/
