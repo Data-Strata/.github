@@ -41,6 +41,20 @@ Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual i
 
 ---
 
+
+### **Medicaid Claims Analytics** (IN PROGRESS)
+
+[![Medicaid Provider Spending](https://img.shields.io/badge/HHS%20Open%20Data-Medicaid%20Provider%20Spending-blue)](https://opendata.hhs.gov/datasets/medicaid-provider-spending/)
+[![HCPCS Level II](https://img.shields.io/badge/CMS-HCPCS%20Level%20II-purple)](https://www.cms.gov/medicare/coding/hcpcs-release-code-sets)
+[![NPI Registry](https://img.shields.io/badge/CMS-NPI%20Registry-green)](https://download.cms.gov/nppes/NPI_Files.html)
+
+End‑to‑end Medicaid Claims Analytics platform built with Snowflake + Power BI. 
+Includes RAW→STAGE→MODEL pipelines, HCPCS + NPI integration, geographic standardization, and a star‑schema model powering provider performance insights.
+
+👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/medicaid_claims_analytics)
+
+---
+
 ## 🎓 Guided Projects (Maven Analytics Showcase)  
 ![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-2E2E2E?style=for-the-badge)
 
