@@ -10,14 +10,13 @@
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-009CA6?style=for-the-badge)
 
 Data‑Strata builds **clear, auditable analytics solutions** that help organizations make confident decisions.  
-Our work blends **SQL data modeling, Power BI dashboards, Excel automation, and bilingual (ES/EN) communication**, all delivered with a consistent visual identity and executive‑ready storytelling.
+My work blends **SQL data modeling, Power BI dashboards, Excel automation, and bilingual (ES/EN) communication**, all delivered with a consistent visual identity and executive‑ready storytelling.
 
-We focus on solutions that are:
+I focus on solutions that are:
 - **Structured** — clean models, validated KPIs, transparent logic  
 - **Actionable** — dashboards that highlight insights, not noise  
 - **Repeatable** — documented processes, QA steps, and reusable templates  
-- **Bilingual** — Spanish/English communication available upon request  
-
+- **Bilingual** — Spanish/English communication available upon request
 ---
 
 ## 📊 Featured Projects  
