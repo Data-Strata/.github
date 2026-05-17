@@ -48,6 +48,10 @@ Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual i
 [![HCPCS Level II](https://img.shields.io/badge/CMS-HCPCS%20Level%20II-purple)](https://www.cms.gov/medicare/coding/hcpcs-release-code-sets)
 [![NPI Registry](https://img.shields.io/badge/CMS-NPI%20Registry-green)](https://download.cms.gov/nppes/NPI_Files.html)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-009CA6?style=for-the-badge)
+
 End‑to‑end Medicaid Claims Analytics platform built with Snowflake + Power BI. 
 Includes RAW→STAGE→MODEL pipelines, HCPCS + NPI integration, geographic standardization, and a star‑schema model powering provider performance insights.
 
