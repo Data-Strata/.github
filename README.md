@@ -42,7 +42,7 @@ Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual i
 
 ---
 
-Medicaid Claims Analytics (IN PROGRESS)
+### **Medicaid Claims Analytics (IN PROGRESS)**
 Medicaid Provider Spending HCPCS Level II NPI Registry
 
 End‑to‑end Medicaid Claims Analytics platform built with Snowflake + Power BI. Includes RAW→STAGE→MODEL pipelines, HCPCS + NPI integration, geographic standardization, and a star‑schema model powering provider performance insights.
