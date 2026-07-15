@@ -21,27 +21,6 @@ I focus on solutions that are:
 
 ## 📊 Featured Projects  
 
-### **Hospital Readmission Analytics**  
-![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-009CA6?style=flat-square)
-
-Executive‑ready dashboard with condition deep‑dives, geographic analysis, and value‑based contracting recommendations.  
-🔗 [https://github.com/Data-Strata/Hospital-Readmission-Analytics](https://github.com/Data-Strata/Hospital-Readmissions-Quality-Analytics)
-
----
-
-### **Inventory Analytics**  
-![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-009CA6?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual identity.  
-🔗 [https://github.com/Data-Strata/Inventory-Analytics](https://github.com/Data-Strata/Inventory-Vendor-Insights)
-
----
-
-
 ### **Medicaid Claims Analytics** (IN PROGRESS)
 
 [![Medicaid Provider Spending](https://img.shields.io/badge/HHS%20Open%20Data-Medicaid%20Provider%20Spending-blue)](https://opendata.hhs.gov/datasets/medicaid-provider-spending/)
@@ -56,6 +35,32 @@ End‑to‑end Medicaid Claims Analytics platform built with Snowflake + Power B
 Includes RAW→STAGE→MODEL pipelines, HCPCS + NPI integration, geographic standardization, and a star‑schema model powering provider performance insights.
 
 👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/medicaid_claims_analytics)
+
+---
+
+### **Hospital Readmission Analytics**  
+![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-009CA6?style=flat-square)
+
+Executive‑ready dashboard with condition deep‑dives, geographic analysis, and value‑based contracting recommendations.  
+🔗 [https://github.com/Data-Strata/Hospital-Readmission-Analytics](https://github.com/Data-Strata/Hospital-Readmissions-Quality-Analytics)
+
+---
+
+### **Behavioral Health Program Performance Dashboard**
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
+
+👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/)
+
+---
+### **Inventory Analytics**  
+![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-009CA6?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual identity.  
+🔗 [https://github.com/Data-Strata/Inventory-Analytics](https://github.com/Data-Strata/Inventory-Vendor-Insights)
 
 ---
 
