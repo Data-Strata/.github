@@ -10,37 +10,17 @@
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-009CA6?style=for-the-badge)
 
 Data‑Strata builds **clear, auditable analytics solutions** that help organizations make confident decisions.  
-Our work blends **SQL data modeling, Power BI dashboards, Excel automation, and bilingual (ES/EN) communication**, all delivered with a consistent visual identity and executive‑ready storytelling.
+My work blends **SQL data modeling, Power BI dashboards, Excel automation, and bilingual (ES/EN) communication**, all delivered with a consistent visual identity and executive‑ready storytelling.
 
-We focus on solutions that are:
+I focus on solutions that are:
 - **Structured** — clean models, validated KPIs, transparent logic  
 - **Actionable** — dashboards that highlight insights, not noise  
 - **Repeatable** — documented processes, QA steps, and reusable templates  
-- **Bilingual** — Spanish/English communication available upon request  
-
+- **Bilingual** — Spanish/English communication available upon request
 ---
 
 ## 📊 Featured Projects  
 
-### **Hospital Readmission Analytics**  
-![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-009CA6?style=flat-square)
-
-Executive‑ready dashboard with condition deep‑dives, geographic analysis, and value‑based contracting recommendations.  
-🔗 [https://github.com/Data-Strata/Hospital-Readmission-Analytics](https://github.com/Data-Strata/Hospital-Readmissions-Quality-Analytics)
-
----
-
-### **Inventory Analytics**  
-![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-009CA6?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual identity.  
-🔗 [https://github.com/Data-Strata/Inventory-Analytics](https://github.com/Data-Strata/Inventory-Vendor-Insights)
-
----
 ### **Medicaid Claims Analytics** (IN PROGRESS)
 
 [![Medicaid Provider Spending](https://img.shields.io/badge/HHS%20Open%20Data-Medicaid%20Provider%20Spending-blue)](https://opendata.hhs.gov/datasets/medicaid-provider-spending/)
@@ -56,8 +36,42 @@ Includes RAW→STAGE→MODEL pipelines, HCPCS + NPI integration, geographic stan
 
 👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/medicaid_claims_analytics)
 
+---
+
+### **Hospital Readmission Analytics**  
+![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-009CA6?style=flat-square)
+
+Executive‑ready dashboard with condition deep‑dives, geographic analysis, and value‑based contracting recommendations.  
+🔗 [https://github.com/Data-Strata/Hospital-Readmission-Analytics](https://github.com/Data-Strata/Hospital-Readmissions-Quality-Analytics)
 
 ---
+
+### **Behavioral Health Program Performance Dashboard**
+
+![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Automation-1F6FEB?logo=visualstudio&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-FF6F00?logo=api&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-8A2BE2)
+![DataModel](https://img.shields.io/badge/Star%20Schema-Modeling-4B8BBE)
+![EHR](https://img.shields.io/badge/Credible--Style-EHR%20Modeling-FF1493)
+
+A full executive analytics dashboard built in Excel integrating operational, clinical, and financial insights for behavioral health programs. This project intentionally models its data structures, workflows, and analytics after Credible Behavioral Health EHR, one of the most widely used systems in community mental health, Medicaid-funded programs, and behavioral health agencies.
+
+👉 🔗 [[https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/BehavioralHealthDashboard)]
+
+---
+### **Inventory Analytics**  
+![SQL](https://img.shields.io/badge/SQL-009CA6?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2E2E2E?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-009CA6?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+Operational dashboard with forecasting, KPIs, and a clean Data‑Strata visual identity.  
+🔗 [https://github.com/Data-Strata/Inventory-Analytics](https://github.com/Data-Strata/Inventory-Vendor-Insights)
+
+---
+
 ## 🎓 Guided Projects (Maven Analytics Showcase)  
 ![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-2E2E2E?style=for-the-badge)
 
@@ -92,4 +106,4 @@ Highlighted Maven projects:
 ---
 
 ## 📬 Contact  
-![Email](https://img.shields.io/badge/Email-009CA6?style=flat-square&logo=gmail&logoColor=white) **mairilynyera@gmail.com** 
+![Email](https://img.shields.io/badge/Email-009CA6?style=flat-square&logo=gmail&logoColor=white) **mairilynyera@gmail.com**  
