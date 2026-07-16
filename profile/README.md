@@ -51,6 +51,13 @@ Executive‑ready dashboard with condition deep‑dives, geographic analysis, an
 ### **Behavioral Health Program Performance Dashboard**
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
 
+![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Automation-1F6FEB?logo=visualstudio&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-FF6F00?logo=api&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-8A2BE2)
+![DataModel](https://img.shields.io/badge/Star%20Schema-Modeling-4B8BBE)
+![EHR](https://img.shields.io/badge/Credible--Style-EHR%20Modeling-FF1493)
+
 A full executive analytics dashboard built in Excel integrating operational, clinical, and financial insights for behavioral health programs. This project intentionally models its data structures, workflows, and analytics after Credible Behavioral Health EHR, one of the most widely used systems in community mental health, Medicaid-funded programs, and behavioral health agencies.
 
 👉 🔗 [[https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/BehavioralHealthDashboard)]
