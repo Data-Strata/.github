@@ -49,7 +49,6 @@ Executive‑ready dashboard with condition deep‑dives, geographic analysis, an
 ---
 
 ### **Behavioral Health Program Performance Dashboard**
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Automation-1F6FEB?logo=visualstudio&logoColor=white)
