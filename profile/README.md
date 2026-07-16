@@ -51,7 +51,7 @@ Executive‑ready dashboard with condition deep‑dives, geographic analysis, an
 ### **Behavioral Health Program Performance Dashboard**
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
 
-👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/)
+👉 🔗 [https://github.com/Data-Strata/medicaid_claims_analytics]([https://github.com/Data-Strata/](https://github.com/Data-Strata/BehavioralHealthDashboard))
 
 ---
 ### **Inventory Analytics**  
