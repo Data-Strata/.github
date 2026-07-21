@@ -59,7 +59,7 @@ Executive‑ready dashboard with condition deep‑dives, geographic analysis, an
 
 A full executive analytics dashboard built in Excel integrating operational, clinical, and financial insights for behavioral health programs. This project intentionally models its data structures, workflows, and analytics after Credible Behavioral Health EHR, one of the most widely used systems in community mental health, Medicaid-funded programs, and behavioral health agencies.
 
-👉 🔗 [[https://github.com/Data-Strata/medicaid_claims_analytics](https://github.com/Data-Strata/BehavioralHealthDashboard)]
+👉 🔗 [[https://github.com/Data-Strata/BehavioralHealthDashboard](https://github.com/Data-Strata/BehavioralHealthDashboard)]
 
 ---
 ### **Inventory Analytics**  
