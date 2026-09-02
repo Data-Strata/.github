@@ -21,7 +21,7 @@ I focus on solutions that are:
 
 ## 📊 Featured Projects  
 
-### **Medicaid Claims Analytics** (IN PROGRESS)
+### **Medicaid Claims Analytics**
 
 [![Medicaid Provider Spending](https://img.shields.io/badge/HHS%20Open%20Data-Medicaid%20Provider%20Spending-blue)](https://opendata.hhs.gov/datasets/medicaid-provider-spending/)
 [![HCPCS Level II](https://img.shields.io/badge/CMS-HCPCS%20Level%20II-purple)](https://www.cms.gov/medicare/coding/hcpcs-release-code-sets)
