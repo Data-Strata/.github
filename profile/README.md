@@ -9,7 +9,7 @@
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E2E2E?style=for-the-badge)
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-009CA6?style=for-the-badge)
 
-👉 🔗 [https://data-strata.io (https://data-strata.io)
+👉 🔗 (https://www.data-strata.io)
 
 Data‑Strata builds **clear, auditable analytics solutions** that help organizations make confident decisions.  
 My work blends **SQL data modeling, Power BI dashboards, Excel automation, and bilingual (ES/EN) communication**, all delivered with a consistent visual identity and executive‑ready storytelling.
